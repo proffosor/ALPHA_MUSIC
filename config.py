@@ -24,8 +24,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/proffosor/ALPHA_MUSI
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_BOTS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PURVI_UPDATES")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+6Cjm9Jh3qyQ0ODJl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+yP4bWqn2FYkwYzhl")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
